@@ -179,14 +179,32 @@ border: 1px solid rgba(233, 68, 68, 0.20);
 background: rgba(233, 68, 68, 0.05);
 width: 50%;
 margin-left: 300px;
-margin-top: 20px;
+margin-top: 10px;
 }
 
+.footer-hero{
+    display: flex;
+    margin-left:  400px;
+    max-width: 1200px;
+   
+    /* height: 300px; */
+}
+.noting{
+    text-align: center;
+    color: #5A5A5D;
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px; /* 162.5% */
+}
+.noting img {
+    margin-top: 15px;
+}
 
-
-
-
-
+.travel{
+    text-align: center;
+  /* background-color: #FF5400; */
+}
 
 /* img-container */
 

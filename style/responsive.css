@@ -27,8 +27,16 @@ gap: 15px;
     width: 100%;
 }
 .card-group{
-    flex-direction: column;
+    /* flex-direction: column; */
 }
+.input{
+    margin: 0;
+}
+.card-tard{
+    margin: 0;
+    
+}
+
 }
 
 
