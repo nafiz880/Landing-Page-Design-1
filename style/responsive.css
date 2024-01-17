@@ -9,6 +9,27 @@ margin-left: 30px;
 gap: 15px;
 }
 
+.drafis{
+    flex-direction: column;
 }
+.text{
+    width: 100%;
+}
+.images{
+    width: 100%;
+    
+}
+.main-items{
+    flex-direction: column;
+}
+.button-b{
+    margin-left: 0;
+    width: 100%;
+}
+.card-group{
+    flex-direction: column;
+}
+}
+
 
     
